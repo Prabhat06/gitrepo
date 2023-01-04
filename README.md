@@ -1,2 +1,2 @@
 # gitrepo
-git repository
+test repo for git commands
